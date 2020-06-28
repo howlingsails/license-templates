@@ -1,3 +1,5 @@
+Forked From [Lice Repo](https://github.com/licenses/lice) for the purpose of exmaple in the manufacturing process
+
 # License Templates
 
 These files are designed to be used by `lice`, a command-line license generator
@@ -21,7 +23,6 @@ Everything else is released under CC0. See `LICENSE` for details.
 
 ## Using lice
 
-[Lice Repo](https://github.com/licenses/lice)
 
 Installation of lice assuming you have python at the command line
 
