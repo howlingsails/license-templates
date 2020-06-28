@@ -34,16 +34,12 @@ pip install lice
 Generating Licenses
 
 ```bash
-echo "Sunligght Foundation"
-echo "How do I know all the options?
-echo "lots of stuff in template folder to look at -]:-)>
+echo "Generate an MIT License for my open source project "Hollwing Sails Studio" project in 2020. "
+echo "Example:"
+echo "    lice mit -y 2020 -o \"Hollowing Sails Studio\""
 
-lice -y 2012 -o "Sunlight Foundation"
+lice mit -y 2020 -o "Hollowing Sails Studio"
 
-echo "Mit Example"
-echo "lice mit"
-
-lice mit
 ```
 
 
