@@ -34,11 +34,16 @@ pip install lice
 Generating Licenses
 
 ```bash
+echo "Sunligght Foundation"
+echo "How do I know all the options?
+echo "lots of stuff in template folder to look at -]:-)>
+
 lice -y 2012 -o "Sunlight Foundation"
 
+echo "Mit Example"
+echo "lice mit"
+
 lice mit
-
-
 ```
 
 
