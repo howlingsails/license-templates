@@ -17,3 +17,28 @@ the copyright to the software.
 
 All licenses in this repository are copyrighted by their respective authors.
 Everything else is released under CC0. See `LICENSE` for details.
+
+
+## Using lice
+
+[Lice Repo](https://github.com/licenses/lice)
+
+Installation of lice assuming you have python at the command line
+
+```bash
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py //TODO: Find Python3 example
+pip install lice
+```
+
+Generating Licenses
+
+```bash
+lice -y 2012 -o "Sunlight Foundation"
+
+lice mit
+
+
+```
+
+
